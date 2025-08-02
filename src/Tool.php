@@ -2,4 +2,6 @@
 
 namespace Jasper4PHP\Cli;
 
-class Tool {}
+class Tool
+{
+}
